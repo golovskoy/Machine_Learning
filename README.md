@@ -3,7 +3,7 @@
 
 | Название проекта                                                             | Описание                | Используемые библиотеки     |
 | :----------------------------------------------------------------------------| :--------------------- |:---------------------------:|
-| [ML_churn](https://github.com/golovskoy/analysis/tree/main/ML_project)       | Спрогнозирована вероятность оттока (на уровне следующего месяца) для каждого клиента. | pandas, Scikit-learn, Seaborn |
+| [1_Clustering](https://github.com/golovskoy/Machine_Learning/tree/main/1_Clustering))       | Проведена сегментация клиентов банка. | pandas, Sklearn, Umap, Tqdm, Pandas, Scipy, Matplotlib, Seaborn |
 |[Trading_systems](https://github.com/golovskoy/analysis/tree/main/My%20job) |Посчитано математическое ожидание, средние прибыль и убыток, а также выведен на график результат нарастающим итогом. |pandas, numpy, matploylib|
 |[Ya.Music](https://github.com/golovskoy/analysis/tree/main/Ya.Practicum_projects/1_Ya.Music) |Проект по исследованию прослушивания музыки в Москве и Санкт-Петербурге по дням недели. |pandas|
 |[flat_research_spb](https://github.com/golovskoy/analysis/tree/main/Ya.Practicum_projects/2_Flat_research_Spb) |Проект посвящен исследовательскому анализу объявлений о продаже квартир в Санкт-Петербурге и близлежащих городах.  |pandas, numpy, matploylib|
